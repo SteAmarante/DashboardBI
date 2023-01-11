@@ -8,6 +8,6 @@ Estarei atualizando aqui sempre com os links das próximas Dashboards.
 
 Links:
 
-Link da dashboard realizada no curso da DATAB  https://lnkd.in/duy8uDaJ
+Link da dashboard realizada no curso da DATAB [Dashboard nº 1] (https://lnkd.in/duy8uDaJ).
 
-Lind da dashboard realizada no curdo da Hashtag Treinamentos https://lnkd.in/dKRwpG49
+Lind da dashboard realizada no curdo da Hashtag Treinamentos [Dashboard nº 2] (https://lnkd.in/dKRwpG49).
