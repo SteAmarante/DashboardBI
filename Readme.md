@@ -1,13 +1,30 @@
-Olá Rede!!!
+# 📊 Meus Dashboards de Power BI  
 
-Hoje vim colocar aqui no repositório as minhas dashboards de Power BI.
+Olá, pessoal! 👋  
 
-Qualquer sugestão é bem-vinda, lembrando que eu estou aprendendo, então qualquer indicação de livro, e-book, curso, MiniCurso, vídeo no YouTube, só colocar nos comentários.
+Aqui você encontra os meus projetos de **Dashboards em Power BI** que desenvolvi enquanto aprendo essa ferramenta incrível! 🚀  
 
-Estarei atualizando aqui sempre com os links das próximas Dashboards.
+Cada dashboard foi criado com base em diferentes fontes de aprendizado, e estou sempre buscando evoluir. Se você tiver **dicas, sugestões, recomendações de cursos, livros ou materiais**, fique à vontade para compartilhar! 📚💡  
 
-Links:
+Fique de olho, pois sempre atualizarei com novos projetos! 🔄  
 
-Link da dashboard realizada no curso da DATAB [Dashboard nº 1](https://lnkd.in/duy8uDaJ).
+---  
 
-Lind da dashboard realizada no curdo da Hashtag Treinamentos [Dashboard nº 2](https://lnkd.in/dKRwpG49).
+### 🔗 Dashboards Publicados  
+
+📌 **Dashboard #1** – Desenvolvido durante o curso da **DATAB**  
+👉 [Acessar Dashboard](https://lnkd.in/duy8uDaJ)  
+
+📌 **Dashboard #2** – Criado no curso da **Hashtag Treinamentos**  
+👉 [Acessar Dashboard](https://lnkd.in/dKRwpG49)  
+
+---  
+
+💬 **Quer contribuir ou conversar sobre Power BI?**  
+Deixe um comentário ou entre em contato! Adoraria trocar ideias e aprender mais! 🤓💬  
+
+🌟 **Vamos evoluir juntos na análise de dados!** 🚀📈  
+
+---  
+
+*Última atualização: Julho/2024* 📅  
